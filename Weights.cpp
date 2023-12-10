@@ -14,9 +14,16 @@ void Weights::Randomize() {
 	i2_h3 = Random(-1, 1);
 	bias_h3 = Random(-1, 1);
 	i1_h4 = Random(-1, 1);
+	i2_h4 = Random(-1, 1);
+	bias_h4 = Random(-1, 1);
+	i1_h5 = Random(-1, 1);
+	i2_h5 = Random(-1, 1);
+	bias_h5 = Random(-1, 1);
 	h1_o1 = Random(-1, 1);
 	h2_o1 = Random(-1, 1);
 	h3_o1 = Random(-1, 1);
+	h4_o1 = Random(-1, 1);
+	h5_o1 = Random(-1, 1);
 	bias_o1 = Random(-1, 1);
 }
 
